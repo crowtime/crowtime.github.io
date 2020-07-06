@@ -1,0 +1,14 @@
+.header {
+		text-align: center;
+}
+body {
+		background-color: #99ffbb;
+}
+button{
+		border: none;
+		background-color: #99ffbb
+}
+.buttons{
+		text-align: center;
+		background-color: #FFFFFF
+}
