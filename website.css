@@ -6,9 +6,12 @@ body {
 }
 button{
 		border: none;
-		background-color: #99ffbb
+		background-color: #99ffbb;
+		font-size: 16px;
+		color: #000000;
+		font-family: "Book Antiqua";
 }
 .buttons{
 		text-align: center;
-		background-color: #FFFFFF
+		background-color: #FFFFFF;
 }
